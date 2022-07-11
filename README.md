@@ -1,0 +1,1 @@
+It's a dummy project to booking train online from Karachi to Rawalpindi. It has a feature to book seats from Karachi to Faisalaabad in fist 4 coaches and in remaning coaches will be for karachi to Rawalpindi or Faisalabad to Rawalpindi 
